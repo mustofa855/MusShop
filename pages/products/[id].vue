@@ -1,7 +1,7 @@
 <template>
     <div>
         <head>
-            <Title>Nuxt Mustofa | {{ product.title }}</Title>
+            <Title>Mus Shop | {{ product.title }}</Title>
             <Meta name ="description" :content="product.description" />
         </head>
         <ProductDetails :product="product"/>
